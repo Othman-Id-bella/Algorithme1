@@ -40,9 +40,7 @@
 
 <br clear="both">
 
-<div align="right">
-  <img height="300" src="https://i.pinimg.com/736x/eb/e2/c3/ebe2c3bfe4d78cc53e08f5dfb5283122.jpg"  />
-</div>
+
 
 ###
 
